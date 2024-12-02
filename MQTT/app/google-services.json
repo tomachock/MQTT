@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "833765536927",
+    "project_id": "near-me-ac29d",
+    "storage_bucket": "near-me-ac29d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833765536927:android:d918e85dd7e0141ceb5eaa",
+        "android_client_info": {
+          "package_name": "com.example.mqtt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATZibsrEHXQiHeu2XF4aZ32AisVqIie2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833765536927:android:b48d2a2005dd49c2eb5eaa",
+        "android_client_info": {
+          "package_name": "com.example.MQTT"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATZibsrEHXQiHeu2XF4aZ32AisVqIie2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
